@@ -1,6 +1,5 @@
-import { CreateTodoDto } from "../dtos";
+import { CreateTodoDto, UpdateTodoDto } from "../dtos";
 import { TodoEntity } from "../entities/todo.entity";
-import { UpdateTodoDto } from '../dtos/todos/update-todo.dto';
 
 
 
